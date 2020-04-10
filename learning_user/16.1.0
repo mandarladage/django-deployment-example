@@ -1,0 +1,4 @@
+Requirement already satisfied: argon2-cffi in e:\django projects\django_level_5\venv\lib\site-packages (19.2.0)
+Requirement already satisfied: cffi>=1.0.0 in e:\django projects\django_level_5\venv\lib\site-packages (from argon2-cffi) (1.14.0)
+Requirement already satisfied: six in e:\django projects\django_level_5\venv\lib\site-packages (from argon2-cffi) (1.14.0)
+Requirement already satisfied: pycparser in e:\django projects\django_level_5\venv\lib\site-packages (from cffi>=1.0.0->argon2-cffi) (2.20)
